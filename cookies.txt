@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.inmc.info	TRUE	/	FALSE	1999999999	__cfduid	d8589a9ccc511535f690787ebf8756b011442177418
+forum.inmc.info	TRUE	/	FALSE	1999999999	phpbb3_lzug5_u	1
+forum.inmc.info	TRUE	/	FALSE	1999999999	phpbb3_lzug5_sid	1251cc3e0b01479a7dd4846a0572a839
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d3f9603916c7a21122c9f1cdbc62dd6231442177420
+.pandawhale.com	TRUE	/	FALSE	1999999999	__cfduid	d7361fb318f9f1c85ff4027261b5ed60b1442177806
+cdn.meme.li	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	44dllyrfgantkvbumsdi4tcl
+cdn.memegenerator.net	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	3hxk1fffiodiiirx2if0pdpl
+.memecdn.com	TRUE	/	FALSE	1999999999	__cfduid	da65d2e1a67866d53ed5950274a398bba1442178366
+.gyazo.com	TRUE	/	FALSE	1999999999	__cfduid	d0d78ff898c934e08a1e0ba433ef5289d1442178794
+.everfunny.com	TRUE	/	FALSE	1999999999	__cfduid	d58683705ccacd8e5adf28315eb2143ea1442179255
+.memedroid.com	TRUE	/	FALSE	1999999999	__cfduid	d5e05e0707d2cfc9103a37ef4904f11981442179522
+funnyinternetmemes.com	TRUE	/	FALSE	1999999999	vsid	908vr1897251609019896
+.makeagif.com	TRUE	/	FALSE	1999999999	__cfduid	dd51d7572f4ee50ad0a4c3e287aee38c01442180091
+.uberhumor.com	TRUE	/	FALSE	1999999999	__cfduid	d540af670e9fafdcedcd5286deffc33401442181666
+.memecrunch.com	TRUE	/	FALSE	1999999999	__cfduid	df12bb06048fa8146edd81a7ceeef33991442183004
+.weknowmemes.com	TRUE	/	FALSE	1999999999	__cfduid	d5092306c5dfb495fac1f9132c7ea0a601442183527
+.hugelolcdn.com	TRUE	/	FALSE	1999999999	__cfduid	dee23875f13c20ba9c844e3e866dde03f1442184186
+
