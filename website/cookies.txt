@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d5241e6f8c4e7f213450229d82d0069f31442177366
+.inmc.info	TRUE	/	FALSE	1999999999	__cfduid	dae873619d898c18503f7a730b32e5c841442177372
+

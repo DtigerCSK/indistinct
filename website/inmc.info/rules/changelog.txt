@@ -1,0 +1,6 @@
+1.  July 24, 2014:  
+	+ Personal information rule.
+2.  July 25, 2014:  
+	+ Staff rules.
+	+ Mute, kick, ban limitation rule.
+	+ Changelog.
